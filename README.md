@@ -4,3 +4,4 @@
 - EstudianteB
 ## Cambios realizados
 - Hemos incorporado la página de registro
+- Añadida página de registro
